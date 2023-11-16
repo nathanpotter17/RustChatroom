@@ -2,6 +2,6 @@
 Simple Chatroom written in Rust, using Rocket.
 
 ## Main.RS 
-![MainRS](./mainRS)
+![MainRS](./mainRS.png)
 ## Chat Room
-![MainRS](./RustChatroom)
+![Chatroom](./RustChatroom.png)
